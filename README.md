@@ -1,2 +1,4 @@
-# prime-number-generators
-A collection of prime number generators in plethora of languages
+# PrimeNumbers
+A prime number generator
+
+C# Verision developed using Visual Studio 2015
